@@ -7,3 +7,6 @@ elif '0'<=a<='9':
     print('numbers')
 else:
     print('special char')
+
+print('keerthi')
+print('yemi chestuvunnav')
